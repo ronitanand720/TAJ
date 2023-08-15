@@ -1,0 +1,781 @@
+.header{
+    width: 1500px;
+    height: 60px;
+
+    margin-left: 10px;
+}
+.logo{
+    height: 40px;
+    width:70px;
+    margin-top: 2px;
+    margin-left: 50px;
+    float: left;
+    background-image: url(/image/logo--Taj.jpg);
+background-size: 70px 40px;
+}
+.ourhotels
+{
+    font-size: 15px;
+    color: rgb(97, 94, 94);
+    float: left;
+    margin-top:5px;
+    margin-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header1{
+    height: 30px;
+    width: 120px;
+    float: left;
+    margin-top:15px;
+    margin-left:20px;
+    border-radius: 100px;
+}
+.header1:hover{
+    background-color: rgb(235, 225, 225);
+}
+.header2{
+    height: 30px;
+    width: 80px;
+    float: left;
+    margin-top: 15px;
+    margin-left:5px;
+    border-radius: 100px;
+}
+.header2:hover{
+    background-color: rgb(235, 225, 225);
+}
+.header3{
+    height: 30px;
+    width: 100px;
+    float: left;
+    margin-top: 15px;
+    margin-left:10px;
+    border-radius: 100px;
+}
+.header3:hover{
+    background-color: rgb(235, 225, 225);
+}
+.header4{
+    height: 30px;
+    width: 110px;
+    float: left;
+    margin-top: 15px;
+    margin-left:10px;
+    border-radius: 100px;
+}
+.header4:hover{
+    background-color: rgb(235, 225, 225);
+}
+.header5{
+    height: 30px;
+    width: 130px;
+    float: left;
+    margin-top: 15px;
+    margin-left:10px;
+    border-radius: 100px;
+}
+.header5:hover{
+    background-color: rgb(235, 225, 225);
+}
+.header6{
+    height: 30px;
+    width: 210px;
+    float: left;
+    margin-top: 15px;
+    margin-left:10px;
+    border-radius: 100px;
+}
+.header6:hover{
+    background-color: rgb(235, 225, 225);
+}
+.header7{
+    height: 30px;
+    width: 160px;
+    float: left;
+    margin-top: 15px;
+    margin-left:10px;
+    border-radius: 100px;
+}
+.header7:hover{
+    background-color: rgb(235, 225, 225);
+}
+.header8{
+    height: 30px;
+    width: 80px;
+    float: left;
+    margin-top: 15px;
+    margin-left:50px;
+    border-radius: 100px;
+}
+.header8:hover{
+    background-color: rgb(235, 225, 225);
+}
+.book{
+    height: 30px;
+    width: 120px;
+    float: left;
+    margin-top: 15px;
+    margin-left:50px;
+    border-radius: 100px;
+    background-color: rgb(175, 132, 13);
+    border-radius: 5px;
+}
+.bookastay{
+    float: left;
+font-size: 15px;
+color:white;
+margin-top: 5px;
+margin-left: 10px;
+font-weight: lighter;
+font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    height: 500px;
+    width: 1500px;
+    background-color: aquamarine;
+    margin-left: 10px;
+    background-image: url(/image/main.jpeg);
+    background-size: 1500px 500px;
+}
+.space{
+    height: 130px;
+    width: 1500px;
+    margin-left: 10px;
+}
+.spacespl{
+    font-size: 50px;
+    float: left;
+    font-weight: lighter;
+    margin-left: 520px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main1{
+    height: 500px;
+    width: 1500px;
+    margin-left: 10px;
+    background-color: rgb(222, 218, 214);
+}
+.main10{
+    height: 500px;
+    width: 400px;
+    background-color:rgb(236, 231, 231);
+    float: left;
+}
+.main11{
+    height: 500px;
+    width: 400px;
+    float: left;
+}
+.main12{
+    height: 500px;
+    width: 700px;
+    float: left;
+    background-image: url(/image/pool.jpeg);
+    background-size:700px 500px ;
+}
+.main2{
+    height: 400px;
+    width: 1500px;
+}
+.main20{
+    height: 400px;
+    width: 300px;
+    float: left;
+    margin-left: 120px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 3px 0px black;
+
+}
+.main20h{
+    height:320px ;
+    width: 300px;
+    background-color: black;
+    background-image: url(/image/main20h.jpeg);
+background-size:300px 320px ;
+}
+.view{
+    float: right;
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: rgb(175, 132, 13) ;
+    margin-top: 30px;
+    margin-right: 10px;
+}
+.viewspl{
+    float: left;
+    font-size: 18px;
+    color: white;
+    font-style: normal;
+    font-weight: lighter;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main21{
+    height: 400px;
+    width: 300px;
+    float: left;
+    margin-left: 20px;
+    box-shadow: 0px 0px 3px 0px black;
+}
+.main21h{
+    height:320px ;
+    width: 300px;
+    background-color: black;
+    background-image: url(/image/main21h.jpeg);
+background-size:300px 320px ;
+}
+.main22{
+    height: 400px;
+    width: 300px;
+    float: left;
+    margin-left: 20px;
+    box-shadow: 0px 0px 3px 0px black;
+}
+.main22h{
+    height:320px ;
+    width: 300px;
+    background-color: black;
+    background-image: url(/image/main22h.jpeg);
+background-size:300px 320px ;
+}
+.main23{
+    height: 400px;
+    width: 300px;
+    float: left;
+    margin-left: 20px;
+    box-shadow: 0px 0px 3px 0px black;
+}
+.main23h{
+    height:320px ;
+    width: 300px;
+    background-color: black;
+    background-image: url(/image/main23h.jpeg);
+background-size:300px 320px ;
+}
+.main2headers{
+    height:30px;
+    width: 110px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 28px;
+}
+.headerview{
+    float: left;
+    font-size: 23px;
+    color: rgb(12, 12, 12);
+    font-style: normal;
+    font-weight: lighter;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.spacespl1{
+    font-size: 50px;
+    float: left;
+    font-weight:lighter;
+    margin-left: 620px;
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main3{
+    height: 550px;
+    width: 1500px;
+    margin-left: 10px;
+}
+.main30{
+height: 550px;
+width: 400px;
+float: left;
+margin-left: 120px;
+box-shadow: 0px 5px 5px 0px rgb(94, 93, 93);
+}
+.main31{
+    height: 550px;
+    width: 400px;
+    float: left;
+    margin-left: 30px;
+    box-shadow: 0px 5px 5px 0px rgb(94, 93, 93);
+
+}
+.main3h{
+    height: 50px;
+    width: 400px;
+    float: left;
+    background-color: white;
+}
+.main30img{
+    height: 420px;
+    width: 400px;
+    background-image: url(/image/main30.jpeg);
+background-size: 400px 420px;
+}
+.main31img{
+    height: 420px;
+    width: 400px;
+    background-image: url(/image/main31.jpeg);
+background-size: 400px 420px;
+}
+.main32{
+    height: 550px;
+    width: 400px;
+    float: left;
+    margin-left: 30px;
+    box-shadow: 0px 5px 5px 0px rgb(94, 93, 93);
+
+}
+.main32img{
+    height: 420px;
+    width: 400px;
+    background-image: url(/image/main32.jpeg);
+background-size: 400px 420px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48;
+  color:rgb(186, 186, 30);
+  float: left;
+  margin-left: 150px;
+  margin-top: 10px;
+  font-size: 40px;
+
+}
+.opennow{
+    height: 30px;
+    width: 100px;
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+.open{
+    font-size: 20px;
+    color: rgb(16, 16, 16);
+    font-weight: lighter;
+}
+.viewspl2{
+    float: left;
+    font-size: 18px;
+    color: white;
+    font-style: normal;
+    font-weight: lighter;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.view2{
+    float: right;
+    height: 30px;
+    width: 150px;
+    border-radius: 5px;
+    background-color: rgb(175, 132, 13) ;
+    margin-top: 70px;
+    margin-right: 15px;
+}
+.footerleft{
+    height: 100px;
+    width: 200px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.viewspl3{
+    float: left;
+    font-size: 18px;
+    color: rgb(12, 12, 12);
+    font-style: normal;
+    font-weight: lighter;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.state{
+    float: left;
+    font-size: 15px;
+    color: rgb(95, 92, 92);
+    font-style: normal;
+    font-weight: lighter;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.show{
+    height: 50px;
+    width: 120px;
+    border-radius: 5px;
+    margin-left: 800px;
+    margin-top: 20px;
+}
+.showspl{
+    font-weight: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+color:rgb(175, 132, 13);
+float: left;
+margin-top:7px ;
+margin-left: 7px;
+}
+.spacespl2{
+        font-size: 50px;
+        float: left;
+        font-weight:lighter;
+        margin-left: 650px;
+        margin-top: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.state1{
+    font-size: 18px;
+        float: left;
+        font-weight:lighter;
+        margin-left: 300px;
+        margin-top: 20px;
+        margin-right: 200px;
+        font-family: Arial, Helvetica, san;
+        color: rgb(87, 86, 86);
+    }
+    .state2{
+        font-size: 18px;
+        float: left;
+        font-weight:lighter;
+        margin-left: 550px;
+        margin-top: 10px;
+        margin-right: 200px;
+        font-family: Arial, Helvetica, san;
+        color: rgb(87, 86, 86);
+    }
+    .main4{
+        height: 600px;
+        width: 1500px;
+        margin-left: 10px;
+        background-color: aqua;
+        margin-top: 40px;
+    }
+    .main40{
+        height:300px ;
+        width: 375px;
+        float: left;
+        background-color: aquamarine;
+        background-image: url(/image/main40.png);
+    background-size: 375px 300px;
+    }
+    .main41{
+        height:300px ;
+        width: 375px;
+        float: left;
+        background-color:whitesmoke;
+    }
+    .main42{
+        height:300px ;
+        width: 375px;
+        float: left;
+        background-color: rgb(26, 197, 140);
+        background-image: url(/image/main42.png);
+        background-size: 375px 300px;
+    }
+    .main43{
+        height:300px ;
+        width: 375px;
+        float: left;
+        background-color:whitesmoke;
+    }
+    .main44{
+        height:300px ;
+        width: 375px;
+        float: left;
+        background-color:whitesmoke;
+    }
+    .main45{
+        height:300px ;
+        width: 375px;
+        float: left;
+        background-color: rgb(40, 158, 119);
+        background-image: url(/image/main45.png);
+        background-size: 375px 300px;
+    }
+    .main46{
+        height:300px ;
+        width: 375px;
+        float: left;
+        background-color: whitesmoke;
+    }
+    .main47{
+        height:300px ;
+        width: 375px;
+        float: left;
+        background-color: rgb(6, 56, 39);
+        background-image: url(/image/main47.jpeg);
+        background-size: 375px 300px;
+    }
+    .main4spl1{
+        font-size: 20px;
+        float: left;
+        font-weight:lighter;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-right: 100px;
+        font-family: Arial, Helvetica, san;
+        color:black;
+    }
+    .main4spl2{
+        font-size: 15px;
+        float: left;
+        font-weight:lighter;
+        margin-left: 20px;
+        margin-top: 20px;
+        margin-right: 30px;
+        font-family: Arial, Helvetica, san;
+        color:black;
+    }
+    .main4spl3{
+        font-size: 15px;
+        float: left;
+        font-weight:lighter;
+        margin-left: 20px;
+        margin-top: 50px;
+        margin-right: 30px;
+        font-family: Arial, Helvetica, san;
+        color:rgb(175, 132, 13);
+    }
+    .main5{
+        height: 860px;
+        width: 1250px;
+        margin-left: 150px;
+    }
+    .main50{
+        height: 530px;
+        width: 850px;
+        background-color: blueviolet;
+        float: left;
+        border-radius: 7px;
+        background-image: url(/image/main50.png);
+    background-size: 850px 530px;
+    box-shadow: 0px 0px 5px 0px rgb(60, 60, 60);
+    }
+    .main51{
+        height: 255px;
+        width: 380px;
+        background-color: brown;
+        float: left;
+        margin-left: 20px;
+        border-radius: 7px;
+        background-image: url(/image/main51.png);
+    background-size: 380px 255px;
+    box-shadow: 0px 0px 5px 0px rgb(60, 60, 60);
+    }
+    .main52{
+        height: 255px;
+        width: 380px;
+        background-color: brown;
+        float: left;
+        margin-left: 20px;
+        border-radius: 7px;
+        margin-top: 20px;
+        background-image: url(/image/main52.jpeg);
+    background-size: 380px 255px;
+    box-shadow: 0px 0px 5px 0px rgb(60, 60, 60);
+    }
+    .main53{
+        height: 260px;
+        width: 380px;
+        background-color: brown;
+        float: left;
+        border-radius: 7px;
+        margin-top: 20px;
+        background-image: url(/image/main53.jpg);
+    background-size:380px 260px ;
+    box-shadow: 0px 0px 5px 0px rgb(60, 60, 60);
+    }
+    .main55{
+        height: 260px;
+        width: 380px;
+        background-color: brown;
+        float: right;
+        border-radius: 7px;
+        margin-top: 20px;
+        background-image: url(/image/main55.jpeg);
+    background-size:380px 260px ;
+    box-shadow: 0px 0px 5px 0px rgb(60, 60, 60);
+    }
+    .main54{
+        height: 260px;
+        width: 450px;
+        background-color: brown;
+        float: left;
+        border-radius: 7px;
+        margin-left: 20px;
+        margin-top: 20px;
+        background-image: url(/image/main54.jpeg);
+   background-size: 450px 260px;
+   box-shadow: 0px 0px 5px 0px rgb(60, 60, 60);
+    }
+.main5f{
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+margin-left: 10px;
+}
+.main5spl
+{
+    height: 30px;
+    width: 400px;
+    margin-top:500px;
+    float: left;
+}
+.main5spl1
+{
+    height: 30px;
+    width: 400px;
+    margin-top:230px;
+    float: left;
+}
+.main6{
+    height: 600px;
+    width: 1500px;
+}
+.main60{
+    height: 600px;
+    width: 375px;
+    float: left;
+    border-radius: 5px;
+    background-image: url(/image/main60.png);
+    background-size: 375px 600px;
+}
+.main61{
+    height: 600px;
+    width: 375px;
+    float: left;
+    border-radius: 5px;
+    background-image: url(/image/main61.jpeg);
+    background-size: 375px 600px;
+}
+.main62{
+    height: 600px;
+    width: 375px;
+    float: left;
+    border-radius: 5px;
+    background-image: url(/image/main62.jpeg);
+    background-size: 375px 600px;
+}
+.main63{
+    height: 600px;
+    width: 375px;
+    float: left;
+    border-radius: 5px;
+    background-image: url(/image/main63.jpeg);
+    background-size: 375px 600px;
+}
+.footer{
+    height: 350px;
+    width: 1500px;
+    background-color: rgb(222, 218, 214);
+    margin-top: 90px;
+}
+.footer0{
+    height: 30px;
+    width: 1500px;
+    margin-top: 20px;
+    float: left;
+    margin-left: 150px;
+}
+.f1{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    margin-top: 10px;
+    float:left;
+    margin-left: 10px;
+}
+.footer1{
+    height: 200px;
+    width:150px;
+    background-color: rgb(222, 218, 214);
+    margin-top: 20px;
+    margin-left: 150px;
+    float: left;
+}
+.footer2{
+    height: 200px;
+    width:120px;
+    background-color: rgb(222, 218, 214);
+    margin-top: 20px;
+    float: left;
+    margin-left: 100px;
+}
+.footer3{
+    height: 200px;
+    width:120px;
+    background-color: rgb(222, 218, 214);
+    margin-top: 20px;
+    float: left;
+    margin-left: 200px;
+}
+.footer4{
+    height: 200px;
+    width:200px;
+    background-color: rgb(222, 218, 214);
+    margin-top: 20px;
+    float: left;
+    margin-left: 100px;
+}
+.view3{
+    float: left;
+    height: 30px;
+    width: 170px;
+    border-radius: 5px;
+    background-color: rgb(175, 132, 13) ;
+    margin-top: 10px;
+}
+.viewspl4{
+    float: left;
+    font-size: 18px;
+    color: white;
+    font-style: normal;
+    font-weight: lighter;
+    margin-left: 30px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.view4{
+    float: left;
+    height: 50px;
+    width: 220px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.c1{
+    height: 50px;
+    width: 50px;
+    float: left;
+    background-image: url(/image/facebook.png);
+    background-size: 50px 50px;
+}
+.c2{
+    height: 50px;
+    width: 50px;
+    float: left;
+    background-image: url(/image/insta.png);
+    background-size: 50px 50px;
+    margin-left: 5px;
+}
+.c3{
+    height: 50px;
+    width: 50px;
+    float: left;
+    background-image: url(/image/twiter.png);
+    background-size: 50px 50px;
+    margin-left: 5px;
+}
+.c4{
+    height: 50px;
+    width: 50px;
+    float: left;
+    background-image: url(/image/youtube.svg);
+    background-size: 50px 50px;
+    margin-left: 5px;
+}
+.ourbrands{
+    height: 60px;
+    width: 240px;
+}
